@@ -2,7 +2,7 @@ package array_1;
 
 import java.util.Scanner;
 
-public class BinaryHW {
+public class Binary {
 
 	public static void main(String[] args) {
 		Scanner scn = new Scanner(System.in); 
