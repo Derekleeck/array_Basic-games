@@ -2,7 +2,7 @@ package array_1;
 
 import java.io.IOException;
 
-public class BaseBallHW {
+public class BaseBall {
 	public static void main(String[] args) throws IOException{
 		int[] com = new int[3];
 		int[] user = new int[3];
